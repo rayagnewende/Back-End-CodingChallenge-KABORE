@@ -3,15 +3,15 @@
 Dans ce dépot github se trouve la partie Back-End du Web coding challenge. 
 
 le backend a été developpé en JAVA avec SPRING BOOT. 
- #Langage utilisé : JAVA 
- #Type de base de données: Base de données relationnele sous MYSQL
+ # Langage utilisé : JAVA 
+ # Type de base de données: Base de données relationnele sous MYSQL
  
  
 IL s'agit d'un microservice qui a été crée afin de fournir toutes les données 
 necessaires pour faire fonctionner l'aplication. 
 
 
-#Comment faire fonctionner l'application 
+# Comment faire fonctionner l'application 
 
 1-- télecharger le dépot GitHub dans votre ordianteur 
 
